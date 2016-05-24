@@ -2,7 +2,7 @@ body{
     margin:0px;
 }
 #header{
-    font:helvetica;
+    font-family: sans-serif;
     font-size:36;
     color:dimgray;
     background-color: white;
@@ -29,4 +29,7 @@ nav{
 nav a{
     padding:2%;
     text-decoration: none;
+}
+.image{
+border-style: solid;    
 }
