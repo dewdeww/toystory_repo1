@@ -31,5 +31,9 @@ nav a{
     text-decoration: none;
 }
 .image{
-border-style: solid;    
+border-style: solid;   
+margin-top: auto;
+margin-left: auto;
+margin-right: auto;
+display: table;
 }
